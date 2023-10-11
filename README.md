@@ -22,7 +22,8 @@
 
 ### anybody in the community worked on that? what are the impressions ?
 
-# 💩 (unstable code) :
+# code need improvements:
+> not ready for use! asking for thoughts
 #### here is an example of one way it could look like
 ```python
 var message:StringLiteral = "hello world"

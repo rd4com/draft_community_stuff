@@ -22,8 +22,8 @@
 #### anybody in the community worked on that? what are the impressions ?
 
 # code need improvements:
-> not ready for use! asking for thoughts
-#### here is an example of one way it could look like
+> not ready for use! how to improve and what to change/keep?
+
 ```python
 var message:StringLiteral = "hello world"
 var input_value:Int = 0

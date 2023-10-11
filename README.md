@@ -12,15 +12,15 @@
 -  web browsers support audio and video and images out of the box
 - many people already knows a little bit of html
 
-### mojo provides super expressive powers, what are your favorites?
+#### mojo provides super expressive powers, what are your favorites?
 
-### What do you think, would it make sense to use webserver as a gui?
+#### What do you think, would it make sense to use webserver as a gui?
 
-### does anybody knows how to make the web server less buggy
+#### does anybody knows how to make the web server less buggy
 
-### what are the disavantages of this way ?
+#### what are the disavantages of this way ?
 
-### anybody in the community worked on that? what are the impressions ?
+#### anybody in the community worked on that? what are the impressions ?
 
 # code need improvements:
 > not ready for use! asking for thoughts

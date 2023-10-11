@@ -3,7 +3,7 @@
 ### Don't use as it is! just a concept for maybe further work 
  (not a library, just for discussion with fellow mojicians)
 #### potential solution for non-blocking interactions
-- no dependencies except Python.import_module("socket")
+- using Python.import_module("socket")
 - provide some interactivity trough forms and links
 - could use css with a little bit of work
 - dynamic routes

@@ -8,8 +8,7 @@
 - could use css with a little bit of work
 - dynamic routes
 - there is plenty of css frameworks
-#### advantages:
--  web browsers support audio and video and images out of the box
+-  most web browsers support audio and video and images out of the box
 - many people already knows a little bit of html
 
 #### mojo provides super expressive powers, what are your favorites?

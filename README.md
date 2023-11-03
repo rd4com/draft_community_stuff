@@ -1,5 +1,5 @@
 
-## 🧪 non blocking U.I using python socket as a webserver.: 
+## 🧪 non blocking single user U.I using python socket as a webserver.: 
 ### Don't use as it is! just a concept for maybe further work 
  (not a library, just for discussion with fellow mojicians)
 #### potential solution for non-blocking interactions

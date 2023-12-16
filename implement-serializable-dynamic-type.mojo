@@ -1,5 +1,7 @@
 # just for fun/inspiration/example/discussion, 
 # not tested and probably have many bugs!
+# please see https://github.com/mzaks/mojo-flx for FlexBuffers!
+
 def main():
     var tmp = DynamicObjects()
     
